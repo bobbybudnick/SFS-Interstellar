@@ -9,27 +9,27 @@ These notes should help anyone with compiling for the targeted version or for up
 
 Changelog
 -----
-C:\Users\Anonymous\Desktop\KSP-Interstellar-Extended-master\KSP-Interstellar-Extended-master\FNPlugin\Storage\FNModuleCryostat.cs
+C:\Users\Anonymous\Desktop\KSP-Interstellar-Extended-master\KSP-Interstellar-Extended-master\FNPlugin\Storage\FNModuleCryostat.cs  
 stop hydrogen boiloff
 
-C:\Users\Anonymous\Desktop\KSP-Interstellar-Extended-master\KSP-Interstellar-Extended-master\FNPlugin\Propulsion\AlcubierreDrive.cs
+C:\Users\Anonymous\Desktop\KSP-Interstellar-Extended-master\KSP-Interstellar-Extended-master\FNPlugin\Propulsion\AlcubierreDrive.cs  
 make warp drive actually work
 
-C:\Users\Anonymous\Desktop\KSP-Interstellar-Extended-master\KSP-Interstellar-Extended-master\FNPlugin\Wasteheat\FNResourceManager.cs
+C:\Users\Anonymous\Desktop\KSP-Interstellar-Extended-master\KSP-Interstellar-Extended-master\FNPlugin\Wasteheat\FNResourceManager.cs  
 reduce thermal radiation
 
-C:\Users\Anonymous\Desktop\KSP-Interstellar-Extended-master\KSP-Interstellar-Extended-master\FNPlugin\Propulsion\ElectricEngineControllerFX.cs
+C:\Users\Anonymous\Desktop\KSP-Interstellar-Extended-master\KSP-Interstellar-Extended-master\FNPlugin\Propulsion\ElectricEngineControllerFX.cs  
 stop thermal efficiency affecting engine power output
 
 Part Modifications
 -----
-warpdrive config should be modified to be prefilled with exotic matter
-small antimatter tank config should be modified to be prefilled with antimatter
+warpdrive config should be modified to be prefilled with exotic matter  
+small antimatter tank config should be modified to be prefilled with antimatter  
 thermal turboject config should be modified to reduce surging under mechjeb vtol control
 
 Notes
 -----
-a version of ksp matching the plugin version must be located in the default location for compilation to work properly
-files are created in FNPlugin > bin > Debug
+a version of ksp matching the plugin version must be located in the default location for compilation to work properly  
+files are created in FNPlugin > bin > Debug  
 sharpdevelop 5.1 recommended
 
