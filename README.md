@@ -1,3 +1,5 @@
+edit: edit: Archiving this as just modifying the KSP 2 game files directly, or waiting on a mod or just default KSP 2 parts will work from now on.
+
 KSPInterstellar
 ===============
 
